@@ -7,5 +7,8 @@ public class Body implements People{
 		// TODO Auto-generated method stub
 		System.out.println("³Ô·¹");
 	}
-
+	public void sleep() {
+		// TODO Auto-generated method stub
+		System.out.println("Ë¯¾õ");
+	}
 }
